@@ -1,7 +1,16 @@
 {
   "name": "sweet-limiter",
   "description": "Promise-based limiter",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midnightcoder-pro/sweet-limiter"
+  },
+  "keywords": [
+  	"api",
+  	"rps",
+  	"limit"
+  ]
 }
